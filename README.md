@@ -26,7 +26,7 @@
 | Plotly | Interactive charts and visualizations |
 
 ## 📸 Application Dashboard
-
+![NOVA Expense Tracker Dashboard](screenshots/dashboard.png)
 The dashboard provides an overview of:
 - Remaining monthly budget
 - Total expenses
